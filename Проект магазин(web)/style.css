@@ -1,0 +1,20 @@
+body {
+    font-family: "amaze", sans-serif;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.image-container {
+    background-image: url("img/долина.jpg");
+    background-size: cover;
+  }
+
+img {
+    width: 500px;
+    height: 500px;
+
+}
+
+h1 {
+    text-align: center;
+}

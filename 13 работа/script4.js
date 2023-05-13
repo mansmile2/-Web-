@@ -16,4 +16,4 @@ function getPrice(time,quickly){
     return time*payhour;
   }
   
-  alert("Стоимость несрочного проекта: "+ getPrice(180,false)+"\nСтоимость срочного проекта: "+ getPrice(180,true))
+  alert("Стоимость несрочного проекта: "+ getPrice(100,false)+"\nСтоимость срочного проекта: "+ getPrice(200,true))
